@@ -1,0 +1,25 @@
+body{
+  background-color: #212529;
+}
+
+.home {
+  background: url(Home.jpeg) center;
+  height: calc(100vh - 106px);
+  
+}
+
+
+.btn:hover,
+.btn:focus {
+filter: brightness(130%)
+}
+
+
+.text-large {
+  font-size: 500%;
+}
+
+
+.learn-more {
+  height: 25vh;
+}
